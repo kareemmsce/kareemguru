@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>mahesh Gurus gfgfgfggfgfg hjTechnologies - Exclusive DevOps & Cloud Learning Hub</title>
+<title>Kareem Gurus gfgfgfggfgfg hjTechnologies - Exclusive DevOps & Cloud Learning Hub</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1>Radhe shyam 2023 & Cloud Learning Platform</h1> 
-			<h4>Contact: 7032501797 Email: mahesh44806@gmail.com</h4> 
+			<h1>Devops 2023 & Cloud Learning Platform</h1> 
+			<h4>Contact: 8639790980 Email: kareem.msc.e@gmail.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2021 radhe syam trailer is good Technologies. All rights Reserved.</footer>
+		<footer>@ 2021 kareems devops trailer is good Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
